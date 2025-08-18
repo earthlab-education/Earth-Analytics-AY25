@@ -1,0 +1,8 @@
+title: Earth Data Analytics Foundations
+description: Student Posts 2024-2025
+remote-theme: mmistakes/so-simple-theme
+
+collections:
+  firstmap:
+    output: true
+    permalink: /01-first-map/:path/
