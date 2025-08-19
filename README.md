@@ -8,5 +8,5 @@ Contributors:
 | Name | GitHub Username | Portfolio URL |
 | ---- | --------------- | ------------- |
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) |
-| (Instructor) Nate Quarderer | nquarder | [nquarder.github.io](https://nquarder.github.io/) |
+| (Instructor) Nate Quarderer | [nquarder](https://www.github.com/nquarder) | [nquarder.github.io](https://nquarder.github.io/) |
 | (Instructor) Lilly Jones | lijo8146  | [lijo8146.github.io](https://lijo8146.github.io) |
