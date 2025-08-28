@@ -12,3 +12,4 @@ Contributors:
 | (Instructor) Lilly Jones | [lijo8146](https://github.com/lijo8146)  | [lijo8146.github.io](https://lijo8146.github.io) |
 | (Student)  Maddy Rich | [mirich42](https://github.com/mirich42) | [mirich42.github.io](https://github.com/mirich42) |
 (Student) Tammy Bravo, Seismologist, Portland, Oregon
+| (Student) Matthew Woodland | [mawo7952](https://github.com/mawo7952) | [mawo7952.github.io](https://github.com/mawo7952) |
