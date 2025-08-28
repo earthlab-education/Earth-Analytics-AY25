@@ -16,3 +16,4 @@ Contributors:
 | (Student) Alison Gregory | [algrego](https://github.com/algrego) | [algrego.github.io](https://algrego.github.io) |
 | Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
+| Em Wright | [emwright2](https://github.com/emwright2) | |
