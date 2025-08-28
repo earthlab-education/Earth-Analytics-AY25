@@ -17,3 +17,4 @@ Contributors:
 | Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
 | Em Wright | [emwright2](https://github.com/emwright2) | |
+Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
