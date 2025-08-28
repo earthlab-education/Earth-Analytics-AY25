@@ -17,9 +17,7 @@ Contributors:
 | Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
 | Em Wright | [emwright2](https://github.com/emwright2) | |
-Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
+| Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
 | Max Warnock
-# Anna McAuliffe
-   - associate scientist/engineer
-     - eldorado springs, colorado
-Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
+| Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
+| Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
