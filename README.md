@@ -19,3 +19,6 @@ Contributors:
 | Em Wright | [emwright2](https://github.com/emwright2) | |
 Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
 | Max Warnock
+# Anna McAuliffe
+   - associate scientist/engineer
+     - eldorado springs, colorado
