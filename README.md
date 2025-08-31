@@ -21,4 +21,4 @@ Contributors:
 | Max Warnock
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
-| (Student) Nym Veach | Environmental Scientist | Bismarck, ND
+| (Student) Nym Veach | [nym-veach](https://github.com/nym-veach) | [In Progress] | Environmental Scientist | Bismarck, ND |
