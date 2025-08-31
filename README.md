@@ -21,3 +21,4 @@ Contributors:
 | Max Warnock
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
+| (Student) Nym Veach | Environmental Scientist | Bismarck, ND
