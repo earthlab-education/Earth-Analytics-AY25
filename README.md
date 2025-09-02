@@ -15,4 +15,4 @@ Contributors:
 | (Student) Matthew Woodland | [mawo7952](https://github.com/mawo7952) | [mawo7952.github.io](https://github.com/mawo7952) |
 | (Student) Alison Gregory | [algrego](https://github.com/algrego) | [algrego.github.io](https://algrego.github.io) |
 | Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
-| (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
+| (Student) Nate Hofford | [natshoff](https://github.com/natshoff) |  | Project Manager, Earth Lab / NC RISCC | Boulder, CO |
