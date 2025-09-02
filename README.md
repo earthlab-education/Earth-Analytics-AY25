@@ -22,4 +22,4 @@ Contributors:
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
 | (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
-| Ben Ouaou | bwhoa2299 | ------------- | Student | Boulder, CO
+| Ben Ouaou | [bwhoa2299](https://github.com/bwhoa2299) | ------------- | Student | Boulder, CO
