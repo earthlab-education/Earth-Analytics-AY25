@@ -10,3 +10,4 @@ Contributors:
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) |
 | (Instructor) Nate Quarderer | [nquarder](https://www.github.com/nquarder) | [nquarder.github.io](https://nquarder.github.io/) |
 | (Instructor) Lilly Jones | [lijo8146](https://github.com/lijo8146)  | [lijo8146.github.io](https://lijo8146.github.io) |
+| (Student) Jeremy Ward | [jeremyward1](https://github.com/jeremyward1)  | [jeremyward1.github.io](https://jeremyward1.github.io) |
