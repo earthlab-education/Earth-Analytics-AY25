@@ -22,3 +22,4 @@ Contributors:
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
 | (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
+| (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
