@@ -18,7 +18,7 @@ Contributors:
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
 | Em Wright | [emwright2](https://github.com/emwright2) | |
 | Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
-| Max Warnock | [maxwarnock](https://github.com/maxwarnock) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
+| Max Warnock | [maxwarnock](https://www.github.com/maxwarnock) | [maxwarnock.github.io](https://maxwarnock.github.io) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
 | (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
