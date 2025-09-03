@@ -21,3 +21,4 @@ Contributors:
 | Max Warnock
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
+| (Student) Livian Von Dran | [Livian-Von-Dran](https://github.com/Livian-Von-Dran)|  | Entomologist at The Spring Institute for Forests on the Moon | Boulder, CO |
