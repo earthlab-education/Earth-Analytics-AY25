@@ -8,7 +8,7 @@ Contributors:
 | Name | GitHub Username | Portfolio URL | Occupation | Location |
 | ---- | --------------- | ------------- | ---------- | -------- |
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) | | |
-| (Instructor) Nate Quarderer | [nquarder](https://www.github.com/nquarder) | [nquarder.github.io](https://nquarder.github.io/) | | |
+| (Instructor) Nate Quarderer | [nquarder](https://www.github.com/nquarder) | [nquarder.github.io](https://nquarder.github.io/) | Education Director (Earth Lab/ESIIL) | Arvada, CO|
 | (Instructor) Lilly Jones | [lijo8146](https://github.com/lijo8146)  | [lijo8146.github.io](https://lijo8146.github.io) | | |
 | (Student)  Maddy Rich | [mirich42](https://github.com/mirich42) | [mirich42.github.io](https://github.com/mirich42) |
 | (Student) Tammy Bravo, Seismologist, Portland, Oregon
@@ -21,3 +21,4 @@ Contributors:
 | Max Warnock
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
+| (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
