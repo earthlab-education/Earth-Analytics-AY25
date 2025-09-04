@@ -5,6 +5,7 @@ Welcome to the Earth Analytics Program! You will use this repository to ask ques
 
 Contributors:
 
+
 | Name | GitHub Username | Portfolio URL | Occupation | Location |
 | ---- | --------------- | ------------- | ---------- | -------- |
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) | | |
@@ -23,3 +24,4 @@ Contributors:
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
 | (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
 | (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
+| (Student) Raini Helmstadter | [rainihelmstadter](https://github.com/rainihelmstadter) | [WIP] | Ski Instructor and Prospective Graduate Student | Bozeman, MT
