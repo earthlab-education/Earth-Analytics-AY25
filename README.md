@@ -25,4 +25,5 @@ Contributors:
 | (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
 | (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
 | (Student) Raini Helmstadter | [rainihelmstadter](https://github.com/rainihelmstadter) | [WIP] | Ski Instructor and Prospective Graduate Student | Bozeman, MT
-| (Student) Matt Bitters | [matthewbitters](https://github.com/matthewbitters) | | Project Manager in the Earth Lab | Boulder, CO |
+| (Student) Matt Bitters | [matthewbitters](https://github.com/matthewbitters) | | Project Manager, Earth Lab | Boulder, CO |
+
