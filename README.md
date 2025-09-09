@@ -26,3 +26,4 @@ Contributors:
 | (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
 | (Student) Raini Helmstadter | [rainihelmstadter](https://github.com/rainihelmstadter) | [WIP] | Ski Instructor and Prospective Graduate Student | Bozeman, MT
 | (Student) Matt Bitters | [matthewbitters](https://github.com/matthewbitters) | | Project Manager in the Earth Lab | Boulder, CO |
+| (Student) Austin Plunkett | [aupl8245-cmyk](https://github.com/aupl8245-cmyk) |  | Junior at CU Boulder | Paradise Valley, AZ |
