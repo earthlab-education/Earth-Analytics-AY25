@@ -17,6 +17,7 @@ Contributors:
 | (Student) Alison Gregory | [algrego](https://github.com/algrego) | [algrego.github.io](https://algrego.github.io) |
 | Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
+| Kayleigh Ward (student) | ESIIL | kward-alt | [https://kward-alt.github.io/](https://kward-alt.github.io/) | Boulder, CO |
 | Em Wright | [emwright2](https://github.com/emwright2) | |
 | Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
 | Max Warnock | [maxwarnock](https://www.github.com/maxwarnock) | [maxwarnock.github.io](https://maxwarnock.github.io) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
