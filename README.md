@@ -26,4 +26,4 @@ Contributors:
 | (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
 | (Student) Raini Helmstadter | [rainihelmstadter](https://github.com/rainihelmstadter) | [WIP] | Ski Instructor and Prospective Graduate Student | Bozeman, MT
 | (Student) Matt Bitters | [matthewbitters](https://github.com/matthewbitters) | | Project Manager, Earth Lab | Boulder, CO |
-
+| (Student) RJ Methven | [ryme1295](https://github.com/ryme1295) | [ryme1295.github.io](https://ryme1295.github.io) | Parks and Rec | Boulder, CO |
