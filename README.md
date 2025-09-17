@@ -5,7 +5,6 @@ Welcome to the Earth Analytics Program! You will use this repository to ask ques
 
 Contributors:
 
-
 | Name | GitHub Username | Portfolio URL | Occupation | Location |
 | ---- | --------------- | ------------- | ---------- | -------- |
 | (Instructor) Katherine Siegel | [katherinesiegel](https://www.github.com/katherinesiegel) | [katherinesiegel.github.io](https://katherinesiegel.github.io) | | |
@@ -19,6 +18,7 @@ Contributors:
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
 | Em Wright | [emwright2](https://github.com/emwright2) | |
 | Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
+| Ben Ouaou | [bwhoa2299](https://github.com/bwhoa2299) | ------------- | Student | Boulder, CO
 | Max Warnock | [maxwarnock](https://www.github.com/maxwarnock) | [maxwarnock.github.io](https://maxwarnock.github.io) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
 | Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
 | Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
