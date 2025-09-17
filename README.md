@@ -14,15 +14,15 @@ Contributors:
 | (Student) Tammy Bravo| [tkbravo](https://github.com/tkbravo) |[tkbravo.github.io](https://tkbravo.github.io) |Seismologist|Portland, OR
 | (Student) Matthew Woodland | [mawo7952](https://github.com/mawo7952) | [mawo7952.github.io](https://github.com/mawo7952) |
 | (Student) Alison Gregory | [algrego](https://github.com/algrego) | [algrego.github.io](https://algrego.github.io) |
-| Markus Jesswein | PostDoc | CIRES/NOAA GML, Colorado |
+| (Student) Markus Jesswein | | PostDoc | CIRES/NOAA GML, Colorado |
 | (Student) Nate Hofford | [natshoff](https://github.com/natshoff) | [WIP] | Project Manager in the Earth Lab | Boulder, CO |
-| Em Wright | [emwright2](https://github.com/emwright2) | |
-| Nisha Koppa, PhD student in Environmental Studies, Boulder, Colorado. 
-| Ben Ouaou | [bwhoa2299](https://github.com/bwhoa2299) | ------------- | Student | Boulder, CO
-| Max Warnock | [maxwarnock](https://www.github.com/maxwarnock) | [maxwarnock.github.io](https://maxwarnock.github.io) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
-| Anna McAuliffe, associate scientist/engineer, eldorado springs, colorado
-| Zach Huber, GEOG Undergrad w/ GIS Emphasis and part time ski bum, Lafayette, CO.
-| (Student) Charlie Wrede | charliewrede | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
+| (Student) Em Wright | [emwright2](https://github.com/emwright2) | |
+| (Student) Nisha Koppa | | | PhD student in Environmental Studies | Boulder, Colorado | 
+| (Student) Ben Ouaou | [bwhoa2299](https://github.com/bwhoa2299) | ------------- | Student | Boulder, CO
+| (Student) Max Warnock | [maxwarnock](https://www.github.com/maxwarnock) | [maxwarnock.github.io](https://maxwarnock.github.io) | Recent grad (Geography BA at CU Boulder) | Boulder, CO |
+| (Student) Anna McAuliffe | | | associate scientist/engineer | eldorado springs, colorado |
+| (Student) Zach Huber | | | GEOG Undergrad w/ GIS Emphasis and part time ski bum | Lafayette, CO |
+| (Student) Charlie Wrede | charliewrede | | Geography Undergrad w/ GIS and Computer Science Emphasis | Boulder, CO
 | (Student) Charlie Caravati | [cmcara](https://github.com/cmcara) | TBD | Grad Student | Boulder, CO
 | (Student) Raini Helmstadter | [rainihelmstadter](https://github.com/rainihelmstadter) | [WIP] | Ski Instructor and Prospective Graduate Student | Bozeman, MT
 | (Student) Matt Bitters | [matthewbitters](https://github.com/matthewbitters) | | Project Manager, Earth Lab | Boulder, CO |
